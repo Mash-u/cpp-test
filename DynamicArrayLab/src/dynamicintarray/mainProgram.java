@@ -59,7 +59,8 @@ public class mainProgram {
         for (int i = 0; i < userArray.arraylength(); i++) {
             System.out.print(checkArray[i] + ", ");
         }
-        scan.nextLine();
+        scan.nextLine();//hhkjbvghv
+        //ij
     }
 }
 
